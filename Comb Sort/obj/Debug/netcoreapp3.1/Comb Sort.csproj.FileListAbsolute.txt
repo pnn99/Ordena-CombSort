@@ -1,0 +1,13 @@
+/home/paulo/AEDs/Comb Sort/bin/Debug/netcoreapp3.1/Comb Sort
+/home/paulo/AEDs/Comb Sort/bin/Debug/netcoreapp3.1/Comb Sort.deps.json
+/home/paulo/AEDs/Comb Sort/bin/Debug/netcoreapp3.1/Comb Sort.runtimeconfig.json
+/home/paulo/AEDs/Comb Sort/bin/Debug/netcoreapp3.1/Comb Sort.runtimeconfig.dev.json
+/home/paulo/AEDs/Comb Sort/bin/Debug/netcoreapp3.1/Comb Sort.dll
+/home/paulo/AEDs/Comb Sort/bin/Debug/netcoreapp3.1/Comb Sort.pdb
+/home/paulo/AEDs/Comb Sort/obj/Debug/netcoreapp3.1/Comb Sort.csprojAssemblyReference.cache
+/home/paulo/AEDs/Comb Sort/obj/Debug/netcoreapp3.1/Comb Sort.AssemblyInfoInputs.cache
+/home/paulo/AEDs/Comb Sort/obj/Debug/netcoreapp3.1/Comb Sort.AssemblyInfo.cs
+/home/paulo/AEDs/Comb Sort/obj/Debug/netcoreapp3.1/Comb Sort.csproj.CoreCompileInputs.cache
+/home/paulo/AEDs/Comb Sort/obj/Debug/netcoreapp3.1/Comb Sort.dll
+/home/paulo/AEDs/Comb Sort/obj/Debug/netcoreapp3.1/Comb Sort.pdb
+/home/paulo/AEDs/Comb Sort/obj/Debug/netcoreapp3.1/Comb Sort.genruntimeconfig.cache
